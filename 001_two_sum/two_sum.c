@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#第一个上传的
+//上传GitHub的测试
 struct object
 {
     int val;
