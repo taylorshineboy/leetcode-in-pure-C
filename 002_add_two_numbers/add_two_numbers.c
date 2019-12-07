@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-//第二次测试成功了呢
+
 /* Definition for singly-linked list. */
 struct ListNode
 {
