@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//上传GitHub测试
+
 struct object
 {
     int val;
